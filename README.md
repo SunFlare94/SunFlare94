@@ -17,7 +17,6 @@ Turning ideas into things people can see, use, and explore.
 
 | Project | Description |
 |---------|-------------|
-| [SunFlare94.github.io](https://sunflare94.github.io) | My portfolio website |
 | [YouTube-android](https://github.com/SunFlare94/YouTube-android) | Android YouTube client with ad filtering |
 | [Radio-Android](https://github.com/SunFlare94/Radio-Android) | Indian & international radio streaming app |
 | [Routes](https://github.com/SunFlare94/Routes) | Windows offline map viewer with route planning |
