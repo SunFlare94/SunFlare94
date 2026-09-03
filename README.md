@@ -1,6 +1,6 @@
 ### Hey there, I'm Mukul Pramanik (SunFlare94)
 
-**Digital Artist &bull; Independent Developer &bull; Creator**
+**Digital Artist &bull; Independent Developer &bull;**
 
 Turning ideas into things people can see, use, and explore.
 
