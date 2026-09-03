@@ -1,6 +1,6 @@
 ### Hey there, I'm Mukul Pramanik (SunFlare94)
 
-**Digital Artist &bull; Independent Developer &bull;**
+**Digital Artist &bull; Independent Developer**
 
 Turning ideas into things people can see, use, and explore.
 
@@ -12,15 +12,6 @@ Turning ideas into things people can see, use, and explore.
 - Android application development
 - Windows desktop applications
 - Experimental software projects
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [YouTube-android](https://github.com/SunFlare94/YouTube-android) | Android YouTube client with ad filtering |
-| [Radio-Android](https://github.com/SunFlare94/Radio-Android) | Indian & international radio streaming app |
-| [Routes](https://github.com/SunFlare94/Routes) | Windows offline map viewer with route planning |
-| [Hymns-Android](https://github.com/SunFlare94/Hymns-Android) | Hindu devotional app with audio playback |
 
 ### Support My Work
 
