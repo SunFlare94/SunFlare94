@@ -34,8 +34,6 @@ If you enjoy my projects or artwork, you can optionally support me through:
 
 ### Connect
 
-- **Website:** [sunflare94.github.io](https://sunflare94.github.io)
-- **DeviantArt:** [deviantart.com/sunflare94](https://www.deviantart.com/sunflare94)
 - **Email:** mukulpramanik@outlook.com
 
 ---
