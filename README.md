@@ -26,15 +26,6 @@
 | **Web** | HTML, CSS, JavaScript, Bootstrap |
 | **Automation** | PowerShell, GitHub Actions |
 
-### Featured Projects
-
-| Project | Description | Platform |
-|---------|-------------|----------|
-| [**YouTube-android**](https://github.com/SunFlare94/YouTube-android) | WebView-based YouTube client with ad and sponsor-segment filtering | Android |
-| [**Hymns-Android**](https://github.com/SunFlare94/Hymns-Android) | Hindu devotional app with Hanuman Chalisa, Bajrang Baan, and audio playback | Android |
-| [**Radio-Android**](https://github.com/SunFlare94/Radio-Android) | Radio streaming app for Indian, local, and international stations | Android |
-| [**Routes**](https://github.com/SunFlare94/Routes) | Offline map viewer with route planning and a 10-day free trial | Windows |
-
 ---
 
 ### Support My Work
