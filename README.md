@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="banner.png" alt="SunFlare94 banner" width="100%" />
   <h1>Hi, I'm SunFlare94</h1>
-  <p><strong>Independent Developer</strong> — building Android apps, Windows tools, and web experiences.</p>
+  <p><strong>Independent Developer</strong> - building Android apps, Windows tools, and web experiences.</p>
   <p>
     <a href="https://sunflare94.pages.dev"><img src="https://img.shields.io/badge/Website-sunflare94.pages.dev-e3b779?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
     <a href="https://github.com/SunFlare94"><img src="https://img.shields.io/badge/GitHub-SunFlare94-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
