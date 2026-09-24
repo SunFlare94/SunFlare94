@@ -1,21 +1,20 @@
-### Hey there, I'm Mukul Pramanik (SunFlare94)
+### Hey there, I'm SunFlare94
 
-**Digital Artist &bull; Independent Developer**
+**Independent Developer**
 
-Turning ideas into things people can see, use, and explore.
+Turning ideas into things people can use and explore.
 
 ---
 
 ### What I Do
 
-- Digital nature & landscape artwork
 - Android application development
 - Windows desktop applications
 - Experimental software projects
 
 ### Support My Work
 
-If you enjoy my projects or artwork, you can optionally support me through:
+If you enjoy my projects, you can optionally support me through:
 
 <table>
   <tr>
