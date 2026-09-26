@@ -12,9 +12,17 @@
 
 ### About Me
 
-- Currently building Android applications and Windows desktop utilities
-- Focused on clean, offline-first, privacy-respecting software
-- Exploring experimental software projects and web development
+I build software because I have ideas and I'd rather ship them than talk about them. No roadmap committees, no waiting for permission - I decide, I code, it ships.
+
+- **Android apps** that solve a specific problem without bloating into junk.
+- **Windows utilities** built for people who need a tool to actually work, offline, with no telemetry nonsense.
+- **Web projects** - clean, fast, and readable by humans, not just search engines.
+
+I don't chase trends or rewrite everything in the newest framework for the sake of it. I pick what works, keep it simple, and move on. Half-finished side projects don't interest me - finished ones do.
+
+I work best alone, think at night, and keep my circle small. If you've got a problem worth solving, I'm interested. If you've got a meeting about a meeting, I'm not.
+
+Straight talk beats a pitch deck every time.
 
 ### Tech Stack
 
