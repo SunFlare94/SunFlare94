@@ -15,7 +15,6 @@
 - Currently building Android applications and Windows desktop utilities
 - Focused on clean, offline-first, privacy-respecting software
 - Exploring experimental software projects and web development
-- Open to collaboration on thoughtful, well-crafted tools
 
 ### Tech Stack
 
@@ -25,27 +24,6 @@
 | **Desktop** | Windows utilities, offline tooling |
 | **Web** | HTML, CSS, JavaScript, Bootstrap |
 | **Automation** | PowerShell, GitHub Actions |
-
----
-
-### Support My Work
-
-If my projects are useful to you, you can optionally support me:
-
-<table align="center">
-  <tr>
-    <td align="center"><b>UPI</b></td>
-    <td align="center"><b>PayPal</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/upi.png" width="200" /></td>
-    <td align="center"><img src="images/paypal.png" width="200" /></td>
-  </tr>
-  <tr>
-    <td align="center"><code>mukulpramanik-outlook.com@oksbi</code></td>
-    <td align="center"><a href="https://www.paypal.com/ncp/payment/G2365LFLKNKSA">PayPal Me</a></td>
-  </tr>
-</table>
 
 ---
 
