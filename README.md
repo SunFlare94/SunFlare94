@@ -12,9 +12,9 @@
 
 ### About Me
 
-Solo developer. Night worker. I write code, it goes out, people use it - that's the whole story.
+Solo developer. Night worker. I write code, release it, people use it - that's the whole story.
 
-**What I actually ship:**
+**What I actually release:**
 
 - **Android apps** - focused, lightweight, no permission-grabbing or ad-injection garbage. If it needs internet, there's a reason.
 - **Windows tools** - offline-first utilities that run on your machine and stay there. Your data isn't my business.
@@ -22,9 +22,9 @@ Solo developer. Night worker. I write code, it goes out, people use it - that's 
 
 **How I operate:**
 
-I don't do hype cycles. I don't rewrite working code to chase a release announcement. I don't attend syncs about sprint alignment. I find a real problem, build the fix, test it, release it.
+I don't do hype cycles. I don't rewrite working code to chase a release announcement. I don't attend syncs about sprint alignment. I find a real problem, build the fix, test it, publish it.
 
-Most of what gets called "engineering culture" is overhead. The work is simple: know the problem, write the code, ship it, fix what breaks.
+Most of what gets called "engineering culture" is overhead. The work is simple: know the problem, write the code, release it, fix what breaks.
 
 I collaborate when it makes sense and disappear when it doesn't. Feedback is welcome. Bikeshedding isn't.
 
