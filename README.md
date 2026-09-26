@@ -12,17 +12,21 @@
 
 ### About Me
 
-I build software because I have ideas and I'd rather ship them than talk about them. No roadmap committees, no waiting for permission - I decide, I code, it ships.
+Solo developer. Night worker. I write code, it goes out, people use it - that's the whole story.
 
-- **Android apps** that solve a specific problem without bloating into junk.
-- **Windows utilities** built for people who need a tool to actually work, offline, with no telemetry nonsense.
-- **Web projects** - clean, fast, and readable by humans, not just search engines.
+**What I actually ship:**
 
-I don't chase trends or rewrite everything in the newest framework for the sake of it. I pick what works, keep it simple, and move on. Half-finished side projects don't interest me - finished ones do.
+- **Android apps** - focused, lightweight, no permission-grabbing or ad-injection garbage. If it needs internet, there's a reason.
+- **Windows tools** - offline-first utilities that run on your machine and stay there. Your data isn't my business.
+- **Web work** - hand-built HTML/CSS/JS. Fast pages, no framework bloat, nothing you didn't ask for.
 
-I work best alone, think at night, and keep my circle small. If you've got a problem worth solving, I'm interested. If you've got a meeting about a meeting, I'm not.
+**How I operate:**
 
-Straight talk beats a pitch deck every time.
+I don't do hype cycles. I don't rewrite working code to chase a release announcement. I don't attend syncs about sprint alignment. I find a real problem, build the fix, test it, release it.
+
+Most of what gets called "engineering culture" is overhead. The work is simple: know the problem, write the code, ship it, fix what breaks.
+
+I collaborate when it makes sense and disappear when it doesn't. Feedback is welcome. Bikeshedding isn't.
 
 ### Tech Stack
 
