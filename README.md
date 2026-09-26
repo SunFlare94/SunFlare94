@@ -26,7 +26,7 @@ I don't do hype cycles. I don't rewrite working code to chase a release announce
 
 Most of what gets called "engineering culture" is overhead. The work is simple: know the problem, write the code, release it, fix what breaks.
 
-I collaborate when it makes sense and disappear when it doesn't. Feedback is welcome. Bikeshedding isn't.
+No teams, no committees, no co-signers. One person, one codebase, one direction. I work alone because that's when the work gets done.
 
 ### Tech Stack
 
