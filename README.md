@@ -3,8 +3,7 @@
   <p><strong>Independent Developer</strong> - building Android apps, Windows tools, and web experiences.</p>
   <p>
     <a href="https://sunflare94.pages.dev"><img src="https://img.shields.io/badge/Website-sunflare94.pages.dev-e3b779?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
-    <a href="https://github.com/SunFlare94"><img src="https://img.shields.io/badge/GitHub-SunFlare94-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.deviantart.com/sunflare94"><img src="https://img.shields.io/badge/DeviantArt-sunflare94-05cc47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt" /></a>
+    
   </p>
 </div>
 
