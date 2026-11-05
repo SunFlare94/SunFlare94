@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm SunFlare94</h1>
-  <p><strong>Independent Developer</strong> - building Android apps, Windows tools, and web experiences.</p>
+  <p><strong>Independent Software Developer/ Engineer</strong> - building Android apps, Windows tools, and web experiences.</p>
   <p>
     <a href="https://sunflare94.pages.dev"><img src="https://img.shields.io/badge/Website-sunflare94.pages.dev-e3b779?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" /></a>
     
